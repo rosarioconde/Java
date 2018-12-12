@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-/* ArrayDemo.java
+/* 
  * 
-muestra como ordenar un arreglo de números enteros en forma
- * ascendente y descendente usando el algoritmo de Selección.
+muestra como ordenar un arreglo de num enteros en forma
+ * ascendente y descendente usando el algoritmo de seleccion.
  */
  
 
